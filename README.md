@@ -79,7 +79,7 @@ Step 6: Open `appsettings.json` and inject your credentials like this.
 }
 ```
 
-Step 7: To start the kestrel server, run the following
+Step 7: To start the kestrel server, run the following, yes
 ```bash
 dotnet run
 ```
